@@ -1,0 +1,1 @@
+<span translate="no" class="material-icons {{$class}}">{{$name}}</span>
